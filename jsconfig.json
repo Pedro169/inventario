@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "resoluciones" : { 
+    "componentes con estilo" : "^5" 
+  }
+}
